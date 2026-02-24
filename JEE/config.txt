@@ -1,0 +1,2 @@
+net.essadiki.dao.DaoImpl
+net.essadiki.metier.MetierImpl
