@@ -1,5 +1,7 @@
 package net.essadiki.metier;
 
+import net.essadiki.dao.IDao;
+
 public class MetierImpl implements IMetier {
     private  IDao dao;
 
